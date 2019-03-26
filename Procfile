@@ -1,0 +1,1 @@
+web: gunicorn cbp_backend.wsgi
