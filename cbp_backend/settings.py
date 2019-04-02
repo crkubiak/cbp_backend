@@ -39,7 +39,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'cbp_api',
+    'adoptions',
+    'cats',
+    'projects',
     'rest_framework',
 ]
 
